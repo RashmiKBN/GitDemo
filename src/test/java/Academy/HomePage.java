@@ -37,6 +37,8 @@ public class HomePage extends base {
 		//simply printing the text
 		System.out.println(text);
 		
+		System.out.println("---------------------------");
+		
 		Login.getsubmit().click();
 		
 	}
